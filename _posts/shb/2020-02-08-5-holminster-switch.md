@@ -69,6 +69,10 @@ bosses:
         mechanics: []
         phase: 1
     title: Forgiven Dissonance
+  - id: boss02
+    title: 'Tesleen, the Forgiven'
+  - id: boss03
+    title: Philia
 layout: guide_post
 ---
 
