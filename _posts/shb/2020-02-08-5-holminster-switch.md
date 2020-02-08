@@ -46,7 +46,7 @@ bosses:
         title: The Path of Light
         type: regular
       - notes:
-          - 'The boss will move to the center and cast a '
+          - The boss will move to the center
           - >-
             Orbs will spawn and after a short time multiple column AoEs shoot
             out from each orb.
