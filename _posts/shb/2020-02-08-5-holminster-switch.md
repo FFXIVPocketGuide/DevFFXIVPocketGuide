@@ -34,9 +34,7 @@ bosses:
   - attacks:
       - dutyActions: []
         notes:
-          - >-
-            Healers should keep an eye out for this attack and heal everyone up
-            as needed.
+          - note: "Healers should keep an eye out for this attack and heal everyone up as needed."
         phases:
           - 1
         roles:
@@ -46,10 +44,8 @@ bosses:
         title: The Path of Light
         type: regular
       - notes:
-          - The boss will move to the center
-          - >-
-            Orbs will spawn and after a short time multiple column AoEs shoot
-            out from each orb.
+          - note: "The boss will move to the center"
+          - note: "Orbs will spawn and after a short time multiple column AoEs shoot out from each orb."
         roles:
           - Everyone
         tags:
@@ -61,10 +57,7 @@ bosses:
     id: boss01
     sequence:
       - alerts:
-          - >-
-            Throughout the fight, the boss will move to the center and orbs will
-            spawn. Players are advised to move into one of the created safe
-            zones to avoid damage.
+          - note: "Throughout the fight, the boss will move to the center and orbs will spawn. Players are advised to move into one of the created safe zones to avoid damage."
         attacks: []
         mechanics: []
         phase: 1
