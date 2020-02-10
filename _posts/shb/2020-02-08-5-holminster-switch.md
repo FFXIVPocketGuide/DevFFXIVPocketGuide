@@ -33,10 +33,7 @@ mechanics: []
 bosses:
   - attacks:
       - dutyActions: []
-        notes:
-          - >-
-            Healers should keep an eye out for this attack and heal everyone up
-            as needed.
+        notes: []
         phases:
           - 1
         roles:
