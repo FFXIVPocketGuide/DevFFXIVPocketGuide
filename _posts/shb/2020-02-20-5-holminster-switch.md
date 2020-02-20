@@ -48,6 +48,8 @@ bosses:
           - note: >-
               Orbs will spawn and after a short time multiple column AoEs shoot
               out from each orb.
+        phases:
+          - phase: 1
         roles:
           - Everyone
         tags:
