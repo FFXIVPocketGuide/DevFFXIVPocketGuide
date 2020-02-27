@@ -2,7 +2,7 @@
 categories: shb
 patchNumber: 5
 patchName: Shadowbringers
-title: Holminster Switch
+title: Holminster Switch (CMS Test)
 slug: holminster-switch
 difficulty: Normal
 plvl: 71
